@@ -18,7 +18,7 @@
 ### I'm also working on small project like this 👇👇👇
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=moccha_editor&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/gelarin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=moccha_editor&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/moccha-editor)
 <br>
 <br>
 
