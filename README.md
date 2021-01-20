@@ -3,9 +3,8 @@
 ## My name is [M. Rayhan Hamada Budiman](https://rayhanhamada.github.io), and i'm a self taught developer.
 
 <br />
-<br />
 
-### I like to build tools that ease my app development workflow, here's some of it.
+### 👇👇👇 I like to build tools that ease my app development workflow, here's some of it. 
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=dotenv-cmd-webpack&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/dotenv-cmd-webpack)
@@ -16,7 +15,7 @@
 
 <br>
 
-### I'm also working on small project like this one
+### I'm also working on small project like this 👇👇👇
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=moccha_editor&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/gelarin)
@@ -32,3 +31,5 @@
 
 ### Here's my currently contribution count on Github
 [![Rayhan Hamada](https://github-readme-stats.vercel.app/api?username=rayhanhamada&theme=monokai&show_owner=true&show_icons=true)](https://github.com/rayhanhamada/github-readme-stats)
+
+<br>
