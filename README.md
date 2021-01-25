@@ -13,6 +13,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=red-sock&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/red-sock)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=jsonku&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/jsonku)
+
 <br>
 
 ### I'm also working on small project like this 👇👇👇
