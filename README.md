@@ -22,6 +22,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=moccha_editor&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/moccha_editor)
 <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=reku-bot-discord&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/reku-bot-discord)
 <br>
 
 ### Here's the languages i commonly use
