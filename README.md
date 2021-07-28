@@ -32,7 +32,7 @@
 
 <br>
 
-### Here's my currently contribution count on Github
+### Here's my current contribution count on Github
 [![Rayhan Hamada](https://github-readme-stats.vercel.app/api?username=rayhanhamada&theme=monokai&show_owner=true&show_icons=true)](https://github.com/rayhanhamada/github-readme-stats)
 
 <br>
