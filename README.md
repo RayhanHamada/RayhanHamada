@@ -25,6 +25,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=reku-discord-bot&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/reku-discord-bot)
 <br>
 
+### And you probably will find this useful 👍👍👍
+<br/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=squeezed&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/squeezed)
+
 ### Here's the languages i commonly use
 <br>
 
