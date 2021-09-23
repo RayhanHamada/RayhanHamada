@@ -24,6 +24,8 @@
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=reku-discord-bot&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/reku-discord-bot)
 <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=bakti-karya&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/bakti-karya)
+<br>
 
 ### And you probably will find this useful 👍👍👍
 <br/>
