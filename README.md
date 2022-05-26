@@ -1,6 +1,6 @@
 # Wello Folks 👋
 
-## My name is [M. Rayhan Hamada Budiman](https://rayhanhamada.vercel.app), and i'm a self taught developer.
+## My name is [M. Rayhan Hamada Budiman](https://rayhanhamada.vercel.app)
 
 <br />
 
