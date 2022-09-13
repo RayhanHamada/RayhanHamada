@@ -1,47 +1,35 @@
-# Wello Folks 👋
+# <div align="center">Welcome Folks 👋</div>
 
-## My name is [M. Rayhan Hamada Budiman](https://rayhanhamada.vercel.app)
+## <div align="center">My name is <a href="rayhanhamada.vercel.app">Muhammad Rayhan Hamada Budiman</a></div>
+
+## <div align="center">And i'm quite familiar with these technologies</div>
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayhanhamada)](https://github.com/rayhanhamada/github-profile-trophy)
+<div style="margin-left: 1rem;" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5-original" style="height: 45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm-original-wordmark" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql-original" style="height: 45px; margin-left: 1em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud-original" style="height: 45px; margin-left: 1em" />
+</div>
 
-### 👇👇👇 I like to build tools that ease my app development workflow, here's some of it. 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=dotenv-cmd-webpack&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/dotenv-cmd-webpack)
+## <div align="center">You can find me on these links</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=gelarin&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/gelarin)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=red-sock&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/red-sock)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=jsonku&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/jsonku)
-
-<br>
-
-### I'm also working on small project like this 👇👇👇
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=moccha_editor&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/moccha_editor)
-<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=reku-discord-bot&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/reku-discord-bot)
-<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=bakti-karya&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/bakti-karya)
-<br>
-
-### And you probably will find this useful 👍👍👍
-<br/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rayhanhamada&repo=squeezed&show_owner=true&theme=monokai)](https://github.com/rayhanhamada/squeezed)
-
-### Here's the languages i commonly use
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhamada&langs_count=8&hide=pascal&layout=compact&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-### Here's my current contribution count on Github
-[![Rayhan Hamada](https://github-readme-stats.vercel.app/api?username=rayhanhamada&theme=monokai&show_owner=true&show_icons=true)](https://github.com/rayhanhamada/github-readme-stats)
-
-<br>
+<br />
+<div align="center">
+<a href="https://github.com/RayhanHamada">
+<img style="height: 45px; margin-left: 1em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-rayhan-hamada-budiman-033021194/">
+<img style="height: 45px; margin-left: 1em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-original" />
+</a>
+</div>
