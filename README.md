@@ -27,9 +27,12 @@
 <br />
 <div align="center">
 <a href="https://github.com/RayhanHamada">
-<img style="height: 45px; margin-left: 1em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original" />
+<img style="height: 45px; margin-left: 2em; color: blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-rayhan-hamada-budiman-033021194/">
-<img style="height: 45px; margin-left: 1em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-original" />
+<img style="height: 45px; margin-left: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-original" />
+</a>
+<a href="https://www.showwcase.com/rayhanhamada" style="margin-left: 2em">
+ShowwCase
 </a>
 </div>
