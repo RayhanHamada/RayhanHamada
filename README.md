@@ -1,6 +1,6 @@
 # <div align="center">Welcome Folks 👋</div>
 
-## <div align="center">My name is <a href="https://rayhanhamada.vercel.app">Muhammad Rayhan Hamada Budiman</a></div>
+## <div align="center">My name is <a href="https://rayhanhamada.vercel.app" target="_blank">Muhammad Rayhan Hamada Budiman</a></div>
 
 ## <div align="center">And i'm quite familiar with these technologies</div>
 
@@ -26,13 +26,13 @@
 
 <br />
 <div align="center">
-<a href="https://github.com/RayhanHamada">
+<a href="https://github.com/RayhanHamada" target="_blank">
 <img style="height: 45px; margin-left: 2em; background: white; color:" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-original" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-rayhan-hamada-budiman-033021194/">
+<a href="https://www.linkedin.com/in/muhammad-rayhan-hamada-budiman-033021194/" target="_blank">
 <img style="height: 45px; margin-left: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-original" />
 </a>
-<a href="https://www.showwcase.com/rayhanhamada" style="margin-left: 2em">
+<a href="https://www.showwcase.com/rayhanhamada" style="margin-left: 2em" target="_blank">
 ShowwCase
 </a>
 </div>
